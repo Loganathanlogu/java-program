@@ -12,7 +12,9 @@ public class ParameterizedConstructor {
 
 	}
 	void logu() {
-		System.out.println("Name:"+name+"  "+"Age:"+" "+age+" "+"DOB:"+DOB);
+		System.out.println("Name:"+name);
+		System.out.println("Age:"+age);
+		System.out.println("DOB:"+DOB);
 	}
 	
 
